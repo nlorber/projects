@@ -1,8 +1,8 @@
 # Data Science / Machine Learning Projects
 
 These are some of the projects I worked on while following the Data Scientist program at [**OpenClassrooms**](https://openclassrooms.com/en/paths/164-data-scientist) / [**CentraleSupélec**](https://www.centralesupelec.fr/en).  
-They touch upon a wide variety of ML models (regression/classification/clustering, supervised/unsupervised, deep learning, etc.) and diverse fields of application (banking, retail, energy, agronomy), as well as some additional tools (API, cloud infrastructure, etc.).  
-Each folder contains a dedicated ReadMe file, going into greater details regarding the specifics of the project such as the mission, the origin and characteristics of the dataset, and important steps and results of the process. But below are already short summaries of the topics, skills and most significant libraries involved for each project.
+They touch upon diverse ML models (regression/classification/clustering, supervised/unsupervised, deep learning, etc.) in a wide varity of fields (banking, retail, energy, agronomy), as well as DevOps skills (API, cloud infrastructure, etc.).  
+Each folder contains a dedicated README file, going into greater details regarding the specifics of the project such as the mission, the origin and characteristics of the dataset, and important steps and results of the process. But below are already short summaries of the topics, skills and most significant libraries involved for each project.
 
 ---
 
@@ -28,11 +28,13 @@ Each folder contains a dedicated ReadMe file, going into greater details regardi
 
 **Keywords:** 
 
-**Main Libraries/Tools:** 
+**Main Libraries/Tools:** Scikit-learn, XGBoost
 
 **Skills:**
 - Implement a supervised regression model
-- 
+- Transform or design relevant features
+- Fine-tune hyperparameters to achieve optimal performance
+- Evaluate the performances of a regression model
 
 ---
 
