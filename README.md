@@ -24,9 +24,9 @@ Each folder contains a dedicated README file, going into greater details regardi
 
 ## Business consumption prediction (Energy)
 
-**Mission:** 
+**Mission:** Predictive model to forecast energy consumption and greenhouse gas emissions of business buildings, as well as evaluate the relevance of the ENERGY STAR score.
 
-**Keywords:** 
+**Keywords:** Supervised Learning, Grid Search, Cross Validation, Ensemble Learning Methods, Decision Trees
 
 **Main Libraries/Tools:** Scikit-learn, XGBoost
 
@@ -34,20 +34,23 @@ Each folder contains a dedicated README file, going into greater details regardi
 - Implement a supervised regression model
 - Transform or design relevant features
 - Fine-tune hyperparameters to achieve optimal performance
-- Evaluate the performances of a regression model
+- Evaluate the performances of a regression model (R2/RMSE)
 
 ---
 
 ## Client database segmentation (Retail)
 
-**Mission:** 
+**Mission:** Segmentation of an online retailer's client database, identification of the clusters and provision of a recommended maintenance period.
 
-**Keywords:** 
+**Keywords:** Clustering, Model Maintenance, 3D Data Visualization, Dimensionality Reduction, RFM Analysis (Recency-Frequency-Monetary value)
 
-**Main Libraries/Tools:**
+**Main Libraries/Tools:** Scikit-learn, Plotly, Yellowbrick
 
 **Skills:**
-- 
+- Implement an unsupervised classification algorithm
+- Fine-tune hyperparameters to achieve optimal performance
+- Evaluate the performances of a classification model (ARI)
+- Maintain a model's performances above a given threshold
 
 ---
 
