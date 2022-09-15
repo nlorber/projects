@@ -12,13 +12,13 @@ Each folder contains a dedicated ReadMe file, going into greater details regardi
 
 **Keywords:** Deep Learning, Natural Language Processing (NLP), Computer Vision, Convolutional Neural Networks (CNN), Dimensionality Reduction
 
-**Libraries/Tools:** Tensorflow, Keras, PIL, Scikit-learn, Gensim
+**Main Libraries/Tools:** Tensorflow, Keras, PIL, Scikit-learn, Gensim
 
 **Skills:**
 - Process and utilize textual data
 - Process and utilize visual data
 - Implement dimensionality reduction techniques
-- Graphically represent high-dimension data
+- Graphically represent high-dimensional data
 
 ---
 
@@ -27,7 +27,8 @@ Each folder contains a dedicated ReadMe file, going into greater details regardi
 **Mission:** 
 
 **Keywords:** 
-**Libraries/Tools:** 
+
+**Main Libraries/Tools:** 
 
 **Skills:**
 - Implement a supervised regression model
@@ -41,7 +42,7 @@ Each folder contains a dedicated ReadMe file, going into greater details regardi
 
 **Keywords:** 
 
-**Libraries/Tools:**
+**Main Libraries/Tools:**
 
 **Skills:**
 - 
@@ -54,7 +55,7 @@ Each folder contains a dedicated ReadMe file, going into greater details regardi
 
 **Keywords:** 
 
-**Libraries/Tools:**
+**Main Libraries/Tools:**
 
 **Skills:**
 - 
@@ -67,7 +68,7 @@ Each folder contains a dedicated ReadMe file, going into greater details regardi
 
 **Keywords:** 
 
-**Libraries/Tools:**
+**Main Libraries/Tools:**
 
 **Skills:**
 - 
