@@ -73,7 +73,7 @@ Each folder will contain a dedicated README file, going into greater details reg
 
 **Mission:** Online app to attribute score to credit applicants based on their estimated repayment success rate, while providing details to understand and contextualize the score given.
 
-**Keywords:** Imbalanced Data, Gradient Booting, Cross Validation, REST API, ML Model Interpretation
+**Keywords:** Imbalanced Data, Gradient Boosting, Cross Validation, REST API, ML Model Interpretation
 
 **Main Libraries/Tools:** FastAPI, Streamlit, SHAP, LightGBM, Gunicorn, Heroku
 
