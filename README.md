@@ -12,7 +12,7 @@ Each folder will contain a dedicated README file, going into greater details reg
 
 **Keywords:** Deep Learning, Natural Language Processing (NLP), Computer Vision, Convolutional Neural Networks (CNN), Dimensionality Reduction
 
-**Main Libraries/Tools:** Tensorflow, Keras, PIL, Scikit-learn, Gensim
+**Main Libraries/Tools:** Tensorflow, Keras, PIL, Scikit-learn, Gensim, OpenCV
 
 **Skills:**
 - Process and utilize textual data
